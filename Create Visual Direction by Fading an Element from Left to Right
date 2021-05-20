@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
 <style>
 
   #ball {
@@ -26,3 +29,5 @@
 </style>
 
 <div id="ball"></div>
+</body>
+</html>
